@@ -6,5 +6,5 @@
   <remote  name="github"
            fetch=".." />
   <remote  name="private"
-           fetch="ssh://git@github.com" />
+    fetch="https://@github.com" />
 </manifest>
